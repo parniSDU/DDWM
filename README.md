@@ -33,7 +33,7 @@ devtools::install_github("parniSDU/DDWM")
 1. Raw Simulated Dataset---> SimData_K4_alpha0.5_size500,<br>
 2. Warranty Period---> W,<br>
 3. Degeradation Model---> model,<br>
-4. Time Steps for Proxel-based Simulation ---> delta,<br> tol=0.0000001, alpha = 0.6, K=3
+4. Time Steps for Proxel-based Simulation ---> delta,<br> 
 5. Tolerance for Proxel-based Simulation---> tol,<br>
 6. Remaining Warranty Time as Decision Variable---> alpha,<br>
 7. Degradation State threshhold---> K,<br>
