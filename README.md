@@ -1,7 +1,7 @@
 
 # DDWM: Data-Driven Warranty Modelling
 
-<img src="GAEM.png" style="width:40%;" align=right>
+<img src="ddw_estimatedState.png" style="width:40%;" align=right>
 
 
 ## Description
